@@ -9,6 +9,7 @@ function App() {
   return (
     <>
       <p>Hello my Giit</p>
+      <p>Fronted programist</p>
     </>
   )
 }
