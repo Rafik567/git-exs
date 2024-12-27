@@ -11,6 +11,7 @@ function App() {
       <p>Hello my Giit</p>
       <p>Fronted programist</p>
       <h1>HAHHHAHAHHAHAHAHAH</h1>
+      <h2>HHJGHJGJHGGG</h2>
     </>
   )
 }
